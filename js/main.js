@@ -45,26 +45,9 @@ const announcements = [
     titleKn: "ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಪಾಲಕ-ಶಿಕ್ಷಕರ ಸಭೆ",
     content: "Parent-Teacher meeting scheduled for February 20, 2025. Please attend to discuss your child's progress. Meeting starts at 11 AM.",
     contentKn: "ಫೆಬ್ರವರಿ 20, 2025 ರಂದು ಪಾಲಕ-ಶಿಕ್ಷಕರ ಸಭೆ ನಡೆಯಲಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಮಗುವಿನ ಪ್ರಗತಿಯನ್ನು ಚರ್ಚಿಸಲು ಹಾಜರಾಗಿ. ಸಭೆ ಬೆಳಿಗ್ಗೆ 11 ಗಂಟೆಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.",
-    urgent: false
-  },
-  {
-    id: 4,
-    date: "2025-01-26",
-    title: "Republic Day Celebrations",
-    titleKn: "ಗಣರಾಜ್ಯೋತ್ಸವ ಆಚರಣೆ",
-    content: "Republic Day will be celebrated on January 26, 2025. Flag hoisting at 8 AM followed by cultural programs. All are welcome.",
-    contentKn: "ಜನವರಿ 26, 2025 ರಂದು ಗಣರಾಜ್ಯೋತ್ಸವವನ್ನು ಆಚರಿಸಲಾಗುವುದು. ಬೆಳಿಗ್ಗೆ 8 ಗಂಟೆಗೆ ಧ್ವಜಾರೋಹಣ, ನಂತರ ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮಗಳು. ಎಲ್ಲರನ್ನೂ ಸ್ವಾಗತಿಸಲಾಗುತ್ತದೆ.",
-    urgent: false
-  },
-  {
-    id: 5,
-    date: "2025-01-10",
-    title: "Mid-Day Meal Menu Update",
-    titleKn: "ಮಧ್ಯಾಹ್ನದ ಊಟದ ಮೆನು ನವೀಕರಣ",
-    content: "The mid-day meal menu has been updated for the new term. Please check the notice board at school for the weekly menu.",
-    contentKn: "ಹೊಸ ಅವಧಿಗಾಗಿ ಮಧ್ಯಾಹ್ನದ ಊಟದ ಮೆನು ನವೀಕರಿಸಲಾಗಿದೆ. ವಾರದ ಮೆನುಗಾಗಿ ಶಾಲೆಯ ಸೂಚನಾ ಫಲಕವನ್ನು ಪರಿಶೀಲಿಸಿ.",
     urgent: true
   }
+  
 ];
 
 // ============================================
