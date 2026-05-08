@@ -71,11 +71,10 @@ const donors = [
 // ============================================
 const staff = [
   { name: "Sri. Janardhan Beliraya", nameKn: "ಶ್ರೀ. ಜನಾರ್ಧನ ಬೆಳಿರಾಯ.", role: "Head Teacher", roleKn: "ಮುಖ್ಯ ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "../images/staff/head.jpg" },
-  { name: "Smt. Lakshmi Devi", nameKn: "ಶ್ರೀಮತಿ. ಲಕ್ಷ್ಮೀ ದೇವಿ", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "../images/staff/head.jpg" },
-  { name: "Sri. Venkatesh M.", nameKn: "ಶ್ರೀ. ವೆಂಕಟೇಶ್ ಎಂ.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "../images/staff/head.jpg" },
-  { name: "Smt. Savitha N.", nameKn: "ಶ್ರೀಮತಿ. ಸಾವಿತ್ರಿ ಎನ್.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "../images/staff/head.jpg" },
-  { name: "Sri. Narasimha Murthy", nameKn: "ಶ್ರೀ. ನರಸಿಂಹ ಮೂರ್ತಿ", role: "Teacher", roleKn: "ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "../images/staff/head.jpg" },
-  { name: "Smt. Geetha R.", nameKn: "ಶ್ರೀಮತಿ. ಗೀತಾ ಆರ್.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "../images/staff/head.jpg" }
+  { name: "Smt. Lakshmi Devi", nameKn: "ಶ್ರೀಮತಿ. ಲಕ್ಷ್ಮೀ ದೇವಿ", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "../images/staff/1.jpg" },
+  { name: "Sri. Venkatesh M.", nameKn: "ಶ್ರೀ. ವೆಂಕಟೇಶ್ ಎಂ.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "../images/staff/2.jpg" },
+  { name: "Smt. Savitha N.", nameKn: "ಶ್ರೀಮತಿ. ಸಾವಿತ್ರಿ ಎನ್.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "../images/staff/3.jpg" },
+  { name: "Sri. Narasimha Murthy", nameKn: "ಶ್ರೀ. ನರಸಿಂಹ ಮೂರ್ತಿ", role: "Teacher", roleKn: "ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "../images/staff/4.jpg" }
 ];
 
 // ============================================
