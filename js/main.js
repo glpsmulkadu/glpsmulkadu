@@ -70,12 +70,12 @@ const donors = [
 // ✏️ To add/edit staff, modify this array
 // ============================================
 const staff = [
-  { name: "Sri. Ramesh K.", nameKn: "ಶ್ರೀ. ರಮೇಶ್ ಕೆ.", role: "Head Teacher", roleKn: "ಮುಖ್ಯ ಶಿಕ್ಷಕ", subject: "Mathematics / ಗಣಿತ", photo: "https://picsum.photos/seed/teacher1/200/200.jpg" },
-  { name: "Smt. Lakshmi Devi", nameKn: "ಶ್ರೀಮತಿ. ಲಕ್ಷ್ಮೀ ದೇವಿ", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "Kannada / ಕನ್ನಡ", photo: "https://picsum.photos/seed/teacher2/200/200.jpg" },
-  { name: "Sri. Venkatesh M.", nameKn: "ಶ್ರೀ. ವೆಂಕಟೇಶ್ ಎಂ.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕ", subject: "English / ಇಂಗ್ಲಿಷ್", photo: "https://picsum.photos/seed/teacher3/200/200.jpg" },
-  { name: "Smt. Savitha N.", nameKn: "ಶ್ರೀಮತಿ. ಸಾವಿತ್ರಿ ಎನ್.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "EVS / ಪರಿಸರ ಅಧ್ಯಯನ", photo: "https://picsum.photos/seed/teacher4/200/200.jpg" },
-  { name: "Sri. Narasimha Murthy", nameKn: "ಶ್ರೀ. ನರಸಿಂಹ ಮೂರ್ತಿ", role: "Teacher", roleKn: "ಶಿಕ್ಷಕ", subject: "Hindi / ಹಿಂದಿ", photo: "https://picsum.photos/seed/teacher5/200/200.jpg" },
-  { name: "Smt. Geetha R.", nameKn: "ಶ್ರೀಮತಿ. ಗೀತಾ ಆರ್.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "Science / ವಿಜ್ಞಾನ", photo: "https://picsum.photos/seed/teacher6/200/200.jpg" }
+  { name: "Sri. Janardhan Beliraya", nameKn: "ಶ್ರೀ. ಜನಾರ್ಧನ ಬೆಳಿರಾಯ.", role: "Head Teacher", roleKn: "ಮುಖ್ಯ ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "https://picsum.photos/seed/teacher1/200/200.jpg" },
+  { name: "Smt. Lakshmi Devi", nameKn: "ಶ್ರೀಮತಿ. ಲಕ್ಷ್ಮೀ ದೇವಿ", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "https://picsum.photos/seed/teacher2/200/200.jpg" },
+  { name: "Sri. Venkatesh M.", nameKn: "ಶ್ರೀ. ವೆಂಕಟೇಶ್ ಎಂ.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "https://picsum.photos/seed/teacher3/200/200.jpg" },
+  { name: "Smt. Savitha N.", nameKn: "ಶ್ರೀಮತಿ. ಸಾವಿತ್ರಿ ಎನ್.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "https://picsum.photos/seed/teacher4/200/200.jpg" },
+  { name: "Sri. Narasimha Murthy", nameKn: "ಶ್ರೀ. ನರಸಿಂಹ ಮೂರ್ತಿ", role: "Teacher", roleKn: "ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "https://picsum.photos/seed/teacher5/200/200.jpg" },
+  { name: "Smt. Geetha R.", nameKn: "ಶ್ರೀಮತಿ. ಗೀತಾ ಆರ್.", role: "Teacher", roleKn: "ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳ", photo: "https://picsum.photos/seed/teacher6/200/200.jpg" }
 ];
 
 // ============================================
