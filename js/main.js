@@ -54,16 +54,12 @@ const announcements = [
 // DONORS DATA
 // ✏️ To add/edit donors, modify this array
 // ============================================
-const donors = [
-  { name: "Sri. Krishna Rao", amount: 5000, purpose: "Library Books", date: "2024-12" },
-  { name: "Smt. Parvathamma", amount: 3000, purpose: "Sports Equipment", date: "2024-11" },
-  { name: "Sri. Venkatesh M.", amount: 10000, purpose: "Computer Lab", date: "2024-10" },
-  { name: "Smt. Lakshmi Devi", amount: 2000, purpose: "Stationery", date: "2024-09" },
-  { name: "Sri. Ramesh K.", amount: 5000, purpose: "School Uniforms", date: "2024-08" },
-  { name: "Smt. Savitha N.", amount: 8000, purpose: "Classroom Furniture", date: "2024-07" },
-  { name: "Sri. Narasimha Murthy", amount: 15000, purpose: "Building Fund", date: "2024-06" },
-  { name: "Smt. Geetha R.", amount: 3000, purpose: "Lab Equipment", date: "2024-05" }
-];
+//const donors = [
+//  { name: "Sri. Krishna Rao", amount: 5000, purpose: "Library Books", date: "2024-12" },
+//  { name: "Smt. Parvathamma", amount: 3000, purpose: "Sports Equipment", date: "2024-11" },
+//  { name: "Sri. Venkatesh M.", amount: 10000, purpose: "Computer Lab", date: "2024-10" },
+//
+//];
 
 // ============================================
 // STAFF DATA
