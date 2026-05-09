@@ -39,7 +39,7 @@ const announcements = [
 //const donors = [
 //  { name: "Sri. Krishna Rao", amount: 5000, purpose: "Library Books", date: "2024-12" },
 //  { name: "Smt. Parvathamma", amount: 3000, purpose: "Sports Equipment", date: "2024-11" },
-//  { name: "Sri. Venkatesh M.", amount: 10000, purpose: "Computer Lab", date: "2024-10" },
+//  { name: "Sri. Venkatesh M.", amount: 10000, purpose: "Computer Lab", date: "2024-10" }
 //
 //];
 
