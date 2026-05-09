@@ -23,29 +23,11 @@ const announcements = [
   {
     id: 1,
     date: "2025-06-01",
-    title: "School Reopens for New Academic Year",
-    titleKn: "ಹೊಸ ಶೈಕ್ಷಣಿಕ ವರ್ಷಕ್ಕೆ ಶಾಲೆ ಪುನಃ ಆರಂಭ",
-    content: "School reopens on June 1, 2025 for the new academic year. All students are requested to attend regularly with proper uniforms and textbooks.",
-    contentKn: "ಹೊಸ ಶೈಕ್ಷಣಿಕ ವರ್ಷಕ್ಕಾಗಿ ಜೂನ್ 1, 2025 ರಂದು ಶಾಲೆ ಪುನಃ ಆರಂಭವಾಗುತ್ತದೆ. ಎಲ್ಲಾ ವಿದ್ಯಾರ್ಥಿಗಳು ನಿಯಮಿತವಾಗಿ ಸರಿಯಾದ ಸಮವಸ್ತ್ರ ಮತ್ತು ಪಠ್ಯಪುಸ್ತಕಗಳೊಂದಿಗೆ ಹಾಜರಾಗಬೇಕು.",
+    title: "Give your child a brighter future — enroll them in our school today!",
+    titleKn: "ನಿಮ್ಮ ಮಕ್ಕಳ ಉತ್ತಮ ಭವಿಷ್ಯಕ್ಕಾಗಿ ಇಂದು ನಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ಪ್ರವೇಶ ಮಾಡಿಸಿ!",
+    content: "Give your child the gift of quality education and a brighter future.Our school provides a caring environment, dedicated teachers, and opportunities for every child to grow and succeed.Admissions are now open — enroll your child today!",
+    contentKn: "ಉತ್ತಮ ಶಿಕ್ಷಣದ ಮೂಲಕ ನಿಮ್ಮ ಮಕ್ಕಳಿಗೆ ಉಜ್ವಲ ಭವಿಷ್ಯವನ್ನು ನೀಡಿರಿ.ನಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ಉತ್ತಮ ಶಿಕ್ಷಕರು, ಸ್ನೇಹಪೂರ್ಣ ವಾತಾವರಣ ಹಾಗೂ ಮಕ್ಕಳ ಸಮಗ್ರ ಬೆಳವಣಿಗೆಗೆ ಉತ್ತಮ ಅವಕಾಶಗಳಿವೆ.ಪ್ರವೇಶ ಪ್ರಕ್ರಿಯೆ ಆರಂಭವಾಗಿದೆ — ಇಂದುಲೇ ನಿಮ್ಮ ಮಕ್ಕಳಿಗೆ ಪ್ರವೇಶ ಮಾಡಿಸಿ!",
     urgent: false
-  },
-  {
-    id: 2,
-    date: "2025-03-15",
-    title: "Annual Day Celebration",
-    titleKn: "ವಾರ್ಷಿಕೋತ್ಸವ ಆಚರಣೆ",
-    content: "Annual Day will be celebrated on March 15, 2025. All parents and guardians are cordially invited. Cultural programs start at 10 AM.",
-    contentKn: "ಮಾರ್ಚ್ 15, 2025 ರಂದು ವಾರ್ಷಿಕೋತ್ಸವವನ್ನು ಆಚರಿಸಲಾಗುವುದು. ಎಲ್ಲಾ ಪೋಷಕರು ಮತ್ತು ಪಾಲಕರು ಆಹ್ವಾನಿತರಾಗಿದ್ದಾರೆ. ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮಗಳು ಬೆಳಿಗ್ಗೆ 10 ಗಂಟೆಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತವೆ.",
-    urgent: false
-  },
-  {
-    id: 3,
-    date: "2025-02-20",
-    title: "Parent-Teacher Meeting",
-    titleKn: "ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಪಾಲಕ-ಶಿಕ್ಷಕರ ಸಭೆ",
-    content: "Parent-Teacher meeting scheduled for February 20, 2025. Please attend to discuss your child's progress. Meeting starts at 11 AM.",
-    contentKn: "ಫೆಬ್ರವರಿ 20, 2025 ರಂದು ಪಾಲಕ-ಶಿಕ್ಷಕರ ಸಭೆ ನಡೆಯಲಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಮಗುವಿನ ಪ್ರಗತಿಯನ್ನು ಚರ್ಚಿಸಲು ಹಾಜರಾಗಿ. ಸಭೆ ಬೆಳಿಗ್ಗೆ 11 ಗಂಟೆಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.",
-    urgent: true
   }
   
 ];
