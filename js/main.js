@@ -49,11 +49,11 @@ const announcements = [
 // ============================================
 
 const staff = [
-  { name: "Sri. Janardhan Beliraya", nameKn: "ಶ್ರೀ. ಜನಾರ್ಧನ ಬೆಳಿರಾಯ.", role: "Head Teacher", roleKn: "ಮುಖ್ಯ ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "images/staff/1.jpg" },
-  { name: "Sri. Subhash", nameKn: "ಶ್ರೀ. ಸುಭಾಷ್", role: "Teacher", roleKn: "ವಿಜ್ಞಾನ ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "images/staff/2.jpg" },
-  { name: "Smt. Prafulla", nameKn: "ಶ್ರೀಮತಿ ಪ್ರಫುಲ್ಲಾ.", role: "Teacher", roleKn: "ಗೌರವ ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "images/staff/3.jpg" },
-  { name: "Smt. Nisha", nameKn: "ಶ್ರೀಮತಿ. ನಿಶಾ.", role: "Teacher", roleKn: "ಗೌರವ ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "images/staff/4.jpg" },
-  { name: "Smt. Roopashree", nameKn: "ಶ್ರೀಮತಿ ರೂಪಶ್ರೀ", role: "Teacher", roleKn: "ಗೌರವ ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "images/staff/head.jpg" }
+  { name: "Sri. Janardhan Beliraya", nameKn: "ಶ್ರೀ. ಜನಾರ್ಧನ ಬೆಳಿರಾಯ.", role: "Head Master", roleKn: "ಮುಖ್ಯ ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "images/staff/head.jpg" },
+  { name: "Sri. Subhash", nameKn: "ಶ್ರೀ. ಸುಭಾಷ್", role: "Teacher", roleKn: "ವಿಜ್ಞಾನ ಶಿಕ್ಷಕ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "images/staff/1.jpg" },
+  { name: "Smt. Prafulla", nameKn: "ಶ್ರೀಮತಿ ಪ್ರಫುಲ್ಲಾ.", role: "Teacher", roleKn: "ಗೌರವ ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "images/staff/2.jpg" },
+  { name: "Smt. Nisha", nameKn: "ಶ್ರೀಮತಿ. ನಿಶಾ.", role: "Teacher", roleKn: "ಗೌರವ ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "images/staff/3.jpg" },
+  { name: "Smt. Roopashree", nameKn: "ಶ್ರೀಮತಿ ರೂಪಶ್ರೀ", role: "Teacher", roleKn: "ಗೌರವ ಶಿಕ್ಷಕಿ", subject: "All Subjects/ಎಲ್ಲಾ ವಿಷಯಗಳು", photo: "images/staff/4.jpg" }
 ];
 
 
